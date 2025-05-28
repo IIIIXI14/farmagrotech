@@ -31,7 +31,7 @@ A smart farming solution built with Flutter and Firebase, designed to help farme
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/farmagrotech.git
+git clone https://github.com/IIIIXI14/farmagrotech.git
 cd farmagrotech
 ```
 
@@ -81,6 +81,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact 📧
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+IIIIXI14 - [@IIIIXI14](https://github.com/IIIIXI14)
 
-Project Link: [https://github.com/yourusername/farmagrotech](https://github.com/yourusername/farmagrotech)
+Project Link: [https://github.com/IIIIXI14/farmagrotech](https://github.com/IIIIXI14/farmagrotech)
